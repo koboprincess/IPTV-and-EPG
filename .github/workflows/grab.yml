@@ -1,12 +1,14 @@
 name: Update EPG
 on:
   schedule:
-    - cron: "0 */6 * * *" # Runs every 6 hours
-  workflow_dispatch: # Allows you to run it manually via a button
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 jobs:
   grab:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true # Opt into Node 24 to stop the warnings
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -14,12 +16,13 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
 
       - name: Install dependencies
         run: npm install
 
       - name: Grab EPG
+        # We use ./ to make sure it looks in the current folder
         run: npm run grab -- --channels=./custom.channels.xml --output=guide.xml
 
       - name: Commit and Push
