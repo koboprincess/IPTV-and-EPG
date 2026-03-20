@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_1001_SD" lang="en" xmltv_id="Channel4.uk">Channel 4</channel>
+  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_1002_SD" lang="en" xmltv_id="BBCTwo.uk">BBC Two</channel>
+  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_1003_SD" lang="en" xmltv_id="BBCThree.uk">BBC Three</channel>
+  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_1004_SD" lang="en" xmltv_id="BBCFour.uk">BBC Four</channel>
+  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_1005_SD" lang="en" xmltv_id="Channel5.uk">Channel 5</channel>
+  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_1007_SD" lang="en" xmltv_id="ITV2.uk">ITV 2</channel>
+  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_1008_SD" lang="en" xmltv_id="ITV3.uk">ITV 3</channel>
+  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_1009_SD" lang="en" xmltv_id="ITV4.uk">ITV 4</channel>
+  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_1010_SD" lang="en" xmltv_id="ITVBe.uk">ITV Be</channel>
+  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_1011_SD" lang="en" xmltv_id="TG4.uk">TG4</channel>
+  <channel site="player.ee.co.uk" site_id="dvb://233a..1c00" lang="en" xmltv_id="BBCRedButton1.uk">BBC RB 1</channel>
+  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_717281_1033_HD" lang="en" xmltv_id="More4.uk">More4 HD</channel>
+
+  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_1006_SD" lang="en" xmltv_id="Film4.uk">Film4</channel>
+  <channel site="tvtv.us" site_id="10178" lang="en" xmltv_id="StarzEncore.us">Starz Encore East</channel>
+  <channel site="tvtv.us" site_id="11163" lang="en" xmltv_id="ParamountNetwork.us">Paramount Network East</channel>
+  <channel site="tvtv.us" site_id="11116" lang="en" xmltv_id="FXMovieChannel.us">FX Movie Channel</channel>
+  <channel site="player.ee.co.uk" site_id="dvb://233a..3ad8" lang="en" xmltv_id="GREATmovies.uk">GREAT! movies</channel>
+  <channel site="player.ee.co.uk" site_id="dvb://233a..3cd8" lang="en" xmltv_id="GREATaction.uk">GREAT! action</channel>
+
+  <channel site="tvtv.us" site_id="11003" lang="en" xmltv_id="NationalGeographic.us">National Geographic</channel>
+  <channel site="tvtv.us" site_id="11006" lang="en" xmltv_id="Nickelodeon.us">Nickelodeon East</channel>
+  <channel site="tvtv.us" site_id="10149" lang="en" xmltv_id="ComedyCentral.us">Comedy Central East</channel>
+  <channel site="tvtv.us" site_id="10171" lang="en" xmltv_id="DisneyChannel.us">Disney Channel East</channel>
+  <channel site="tvtv.us" site_id="10174" lang="en" xmltv_id="DisneyJunior.us">Disney Junior</channel>
+  <channel site="tvtv.us" site_id="10172" lang="en" xmltv_id="DisneyXD.us">Disney XD</channel>
+  <channel site="tvtv.us" site_id="10313" lang="en" xmltv_id="E.us">E! Entertainment</channel>
+  <channel site="tvtv.us" site_id="11004" lang="en" xmltv_id="NatGeoWild.us">Nat Geo Wild</channel>
+
+  <channel site="pluto.tv" site_id="5b4e96a0423e067bd6df6901" lang="en" xmltv_id="UnsolvedMysteries.us@UK">Unsolved Mysteries</channel>
+  <channel site="pluto.tv" site_id="5b4e96a0423e067bd6df6901" lang="en" xmltv_id="UnsolvedMysteries.us@US">Unsolved Mysteries (US)</channel>
+  <channel site="pluto.tv" site_id="5cb0cae7a461406ffe3f5213" lang="en" xmltv_id="ParamountMovieChannel.us">Paramount Movie Channel</channel>
+  <channel site="pluto.tv" site_id="5df97894467dfa00091c873c" lang="en" xmltv_id="NBCNewsNOW.us">NBC News NOW</channel>
+  <channel site="pluto.tv" site_id="640a68880e884c0009979cc2" lang="en" xmltv_id="FoxWeather.us">FOX Weather</channel>
+  <channel site="pluto.tv" site_id="5f36d726234ce10007784f2a" lang="en" xmltv_id="BobRossChannel.us">The Bob Ross Channel</channel>
+  <channel site="pluto.tv" site_id="5812be1c249444e05d09cc50" lang="en" xmltv_id="PlutoTVTrueCrime.us@US">Pluto TV True Crime</channel>
+  <channel site="pluto.tv" site_id="561d7d484dc7c8770484914a" lang="en" xmltv_id="PlutoTVAction.us@US">Pluto TV Action</channel>
+  <channel site="pluto.tv" site_id="5b4e92e4694c027be6ecece1" lang="en" xmltv_id="PlutoTVDrama.us@US">Pluto TV Drama</channel>
+  <channel site="pluto.tv" site_id="569546031a619b8f07ce6e25" lang="en" xmltv_id="PlutoTVHorror.us@US">Pluto TV Horror</channel>
+</channels>
