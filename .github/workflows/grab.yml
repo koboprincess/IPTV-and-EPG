@@ -7,8 +7,8 @@ on:
 jobs:
   grab:
     runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true # Opt into Node 24 to stop the warnings
+    permissions:
+      contents: write # Extra layer of permission security
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -22,7 +22,7 @@ jobs:
         run: npm install
 
       - name: Grab EPG
-        run: npm run grab -- --channels=custom.channels.xml --output=guide.xml
+        run: npm run grab -- --channels=./custom.channels.xml --output=guide.xml
 
       - name: Commit and Push
         run: |
@@ -30,4 +30,4 @@ jobs:
           git config --global user.email "action@github.com"
           git add guide.xml
           git commit -m "Update guide.xml" || echo "No changes to commit"
-          git push
+          git push origin main
