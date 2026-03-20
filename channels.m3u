@@ -1,50 +1,56 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBCEarth.uk" tvg-logo="https://i.imgur.com/8QO9y8B.png" group-title="Lifestyle",BBC Earth
-https://rakuten-bbcearth-1-gb.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://i.imgur.com/m2pB4H9.png" group-title="Entertainment",BBC Four
-https://rbmn-live.akamaized.net/hls/live/590964/bbcfour/master.m3u8
-#EXTINF:-1 tvg-id="BBCThree.uk" tvg-logo="https://i.imgur.com/8Nf9n9B.png" group-title="Entertainment",BBC Three
-https://rbmn-live.akamaized.net/hls/live/590964/bbcthree/master.m3u8
-#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://i.imgur.com/5V1r9B9.png" group-title="Entertainment",BBC Two
-https://rbmn-live.akamaized.net/hls/live/590964/bbctwo/master.m3u8
-#EXTINF:-1 tvg-id="Channel4.uk" tvg-logo="https://i.imgur.com/p8u9y8B.png" group-title="General",Channel 4
-https://c4-hls.atscale.tv/out/v1/450e3b974e61448eb5863c3230a1322d/index.m3u8
-#EXTINF:-1 tvg-id="Channel5.uk" tvg-logo="https://i.imgur.com/9O8u9y8.png" group-title="General",Channel 5
-https://c5-hls.atscale.tv/out/v1/985e3b974e61448eb5863c3230a1322d/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-logo="https://i.imgur.com/4QO9y8B.png" group-title="Comedy",Comedy Central
-https://edge-hls.vca.com/comedy/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-logo="https://i.imgur.com/7Nf9n9B.png" group-title="Kids",Disney Junior
-https://content.uplynk.com/channel/3e5e3b974e61448eb5863c3230a1322d.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.us" tvg-logo="https://i.imgur.com/2Nf9n9B.png" group-title="Kids",Disney XD
-https://content.uplynk.com/channel/3e5e3b974e61448eb5863c3230a1322e.m3u8
-#EXTINF:-1 tvg-id="E.us" tvg-logo="https://i.imgur.com/1Nf9n9B.png" group-title="Entertainment",E! East
-https://content.uplynk.com/channel/4e5e3b974e61448eb5863c3230a1322d.m3u8
-#EXTINF:-1 tvg-id="Film4.uk" tvg-logo="https://i.imgur.com/6O8u9y8.png" group-title="Movies",Film4
-https://c4-hls.atscale.tv/out/v1/film4/index.m3u8
-#EXTINF:-1 tvg-id="ITV2.uk" tvg-logo="https://i.imgur.com/3Nf9n9B.png" group-title="Entertainment",ITV 2
-https://itv-hls.atscale.tv/out/v1/itv2/index.m3u8
-#EXTINF:-1 tvg-id="ITV3.uk" tvg-logo="https://i.imgur.com/4Nf9n9B.png" group-title="Entertainment",ITV 3
-https://itv-hls.atscale.tv/out/v1/itv3/index.m3u8
-#EXTINF:-1 tvg-id="ITV4.uk" tvg-logo="https://i.imgur.com/5Nf9n9B.png" group-title="Sports",ITV 4
-https://itv-hls.atscale.tv/out/v1/itv4/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-logo="https://i.imgur.com/9Nf9n9B.png" group-title="Documentary",National Geographic
-https://content.uplynk.com/channel/3324f2467c1d4af3b58444c78c112c0a.m3u8
-#EXTINF:-1 tvg-id="NatGeoWild.us" tvg-logo="https://i.imgur.com/0O8u9y8.png" group-title="Documentary",Nat Geo Wild
-https://content.uplynk.com/channel/3324f2467c1d4af3b58444c78c112c0b.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-logo="https://i.imgur.com/1O8u9y8.png" group-title="Kids",Nickelodeon
-https://edge-hls.vca.com/nick/index.m3u8
-#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-logo="https://i.imgur.com/2O8u9y8.png" group-title="Movies",Paramount Movie Channel
-https://edge-hls.vca.com/paramount/index.m3u8
-#EXTINF:-1 tvg-id="StarzEncore.us" tvg-logo="https://i.imgur.com/3O8u9y8.png" group-title="Movies",Starz
-https://content.uplynk.com/channel/8e5e3b974e61448eb5863c3230a1322d.m3u8
-#EXTINF:-1 tvg-id="Tastemade.us" tvg-logo="https://i.imgur.com/4O8u9y8.png" group-title="Lifestyle",Tastemade
-https://tastemade.akamaized.net/hls/live/2030581/tastemade_web/master.m3u8
-#EXTINF:-1 tvg-id="TG4.uk" tvg-logo="https://i.imgur.com/5O8u9y8.png" group-title="General",TG4
-https://tg4-live.akamaized.net/hls/live/2030581/tg4_web/master.m3u8
-#EXTINF:-1 tvg-id="Toonami.us" tvg-logo="https://i.imgur.com/6O8u9y8.png" group-title="Kids",Toonami
-https://content.uplynk.com/channel/9e5e3b974e61448eb5863c3230a1322d.m3u8
-#EXTINF:-1 tvg-id="ToonGoggles.us" tvg-logo="https://i.imgur.com/7O8u9y8.png" group-title="Kids",Toon Goggles
-https://toongoggles-live.akamaized.net/hls/live/2030581/tg_web/master.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@US" tvg-logo="https://i.imgur.com/nGSsUd4.png" group-title="Documentary",BBC Earth (1080p)
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCFour.uk@UKHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/960px-BBC_Four_logo_2021.svg.png" group-title="Culture;Documentary",BBC Four UK HD
+https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
+#EXTINF:-1 tvg-id="BBCThree.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/960px-BBC_Three_2022.svg.png" group-title="General",BBC Three HD (1080p) [Geo-blocked]
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_mse_v0_hevc.mpd
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/960px-BBC_Two_logo_2021.svg.png" group-title="General",BBC Two HD (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
+#EXTINF:-1 tvg-id="Channel4.uk@UKHD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png" group-title="General",Channel 4 UK HD (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+#EXTINF:-1 tvg-id="Channel5.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png" group-title="General",Channel 5 HD (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@US" tvg-logo="https://i.imgur.com/9y6TtjF.png" group-title="Comedy",Comedy Central Pluto TV
+https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Kids",Disney Junior East (720p) [Not 24/7]
+https://tvpass.org/live/DisneyJuniorEast/hd
+#EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Kids",Disney XD East (720p) [Not 24/7]
+https://tvpass.org/live/DisneyXDEast/hd
+#EXTINF:-1 tvg-id="E.us@East" tvg-logo="https://i.imgur.com/TWFDkap.png" group-title="Entertainment",E! East (1080p) [Not 24/7]
+https://tvpass.org/live/EEast/hd
+#EXTINF:-1 tvg-id="Film4.uk@HD" tvg-logo="https://i.imgur.com/MTSgoGI.png" group-title="Movies",Film4 HD (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+#EXTINF:-1 tvg-id="ITV2.uk@SD" tvg-logo="https://i.imgur.com/2BpUK0W.png" group-title="General",ITV2 [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/itv2/browser-dash/itv2.mpd
+#EXTINF:-1 tvg-id="ITV3.uk@SD" tvg-logo="https://i.imgur.com/JuyM2z5.png" group-title="Entertainment",ITV3 (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8
+#EXTINF:-1 tvg-id="ITV4.uk@SD" tvg-logo="https://i.imgur.com/DYI4IA2.png" group-title="General",ITV4 (1080p) [Geo-Blocked]
+https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540" group-title="Documentary",National Geographic HD
+http://116.90.120.151:8000/play/a0in/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" group-title="Documentary",National Geographic HD East (720p) [Not 24/7]
+https://tvpass.org/live/NationalGeographicEast/hd
+#EXTINF:-1 tvg-id="NationalGeographicWild.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NAT_GEO_WILD/images/LOGO_HD/image.png" group-title="Documentary",National Geographic Wild HD (1080p)
+http://116.90.120.151:8000/play/a0ie/index.m3u8
+#EXTINF:-1 tvg-id="NickHDPlus.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159121_ld_h15_aa.png?lock=720x540" group-title="Kids",Nick HD+ (1080p)
+http://116.90.120.151:8000/play/a0i3/index.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.us@East" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Kids",Nickelodeon
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-id="ParamountMovieChannel.us@SD" tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="Movies",Paramount Movie Channel
+https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+#EXTINF:-1 tvg-id="Starz.us@East" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Undefined",Starz (1080p)
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us@UK" tvg-logo="https://i.imgur.com/xP7Ehn8.png" group-title="Cooking",Tastemade (1080p)
+https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us@US" tvg-logo="https://i.imgur.com/xP7Ehn8.png" group-title="Cooking",Tastemade (1080p)
+https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
+#EXTINF:-1 tvg-id="TG4.ie@SD" tvg-logo="https://i.imgur.com/XiAKb4E.png" group-title="Undefined",TG4 (1080p)
+https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8
+#EXTINF:-1 tvg-id="ToonamiAftermath.us@East" tvg-logo="https://i.imgur.com/aSjhZK7.png" group-title="Animation",Toonami Aftermath East (480p)
+http://api.toonamiaftermath.com:3000/est/playlist.m3u8
+#EXTINF:-1 tvg-id="ToonGoggles.us@SD" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="Kids",ToonGoggles (720p)
+https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="ChinaTravel.cn" tvg-logo="https://i.imgur.com/vSgY3CD.png" group-title="Travel",China Travel
 https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyInternationalHD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png" group-title="Kids",Disney International HD
