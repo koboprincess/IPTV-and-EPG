@@ -22,8 +22,7 @@ jobs:
         run: npm install
 
       - name: Grab EPG
-        # We use ./ to make sure it looks in the current folder
-        run: npm run grab -- --channels=./custom.channels.xml --output=guide.xml
+        run: npm run grab -- --channels=custom.channels.xml --output=guide.xml
 
       - name: Commit and Push
         run: |
