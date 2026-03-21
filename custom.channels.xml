@@ -1,42 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="player.ee.co.uk" site_id="dvb://233a..4480" lang="en" xmltv_id="BBCOne.uk@LondonHD">BBC One London HD</channel>
-  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_1001_SD" lang="en" xmltv_id="Channel4.uk">Channel 4</channel>
-  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_1002_SD" lang="en" xmltv_id="BBCTwo.uk">BBC Two</channel>
-  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_1003_SD" lang="en" xmltv_id="BBCThree.uk">BBC Three</channel>
-  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_1004_SD" lang="en" xmltv_id="BBCFour.uk">BBC Four</channel>
-  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_1005_SD" lang="en" xmltv_id="Channel5.uk">Channel 5</channel>
-  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_1007_SD" lang="en" xmltv_id="ITV2.uk">ITV 2</channel>
-  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_1008_SD" lang="en" xmltv_id="ITV3.uk">ITV 3</channel>
-  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_1009_SD" lang="en" xmltv_id="ITV4.uk">ITV 4</channel>
-  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_1010_SD" lang="en" xmltv_id="ITVBe.uk">ITV Be</channel>
-  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_1011_SD" lang="en" xmltv_id="TG4.uk">TG4</channel>
-  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_717281_1033_HD" lang="en" xmltv_id="More4.uk">More4 HD</channel>
+  <channel site="player.ee.co.uk" site_id="dvb://233a..4480" lang="en" 
+xmltv_id="BBCOne.uk@LondonHD">BBC One London HD</channel>
+  <channel site="player.ee.co.uk" site_id="dvb://233a..10bf" lang="en" 
+xmltv_id="BBCTwo.uk@England">BBC Two England</channel>
+  <channel site="player.ee.co.uk" site_id="dvb://233a..10c0" lang="en"
+xmltv_id="BBCThree.uk@SD">BBC Three</channel>
+  <channel site="player.ee.co.uk" site_id="dvb://233a..11c0" lang="en"
+xmltv_id="BBCFour.uk@UK">BBC Four</channel>
+  <channel site="pluto.tv" site_id="656535fc2c46f30008870fae" lang="en" 
+xmltv_id="">BBC Earth</channel>
+  <channel site="player.ee.co.uk" site_id="dvb://233a..4500" lang="en" 
+xmltv_id="">Channel 4 HD</channel>
+  <channel site="player.ee.co.uk" site_id="dvb://233a..4540" lang="en" 
+xmltv_id="channel5.uk@HD">Channel 5 HD</channel>
+  <channel site="pluto.tv" site_id="5ca671f215a62078d2ec0abf" lang="en" 
+xmltv_id="">Comedy Central Pluto TV</channel>
+  <channel site="tvtv.us" site_id="74796" lang="en" 
+xmltv_id="DisneyJunior.us@East">Disney Junior East</channel>
+  <channel site="tvtv.us" site_id="18279" lang="en" 
+xmltv_id="DisneyXD.us@East">Disney XD East</channel>
+  <channel site="tvtv.us" site_id="10989" lang="en" 
+xmltv_id="E.us@East">E! East</channel>
+  <channel site="player.ee.co.uk" site_id="dvb://233a..20c1" lang="en"
+xmltv_id="film4.uk@SD">Film4</channel>
+  <channel site="player.ee.co.uk" site_id="dvb://233a..2085" lang="en"
+xmltv_id="ITV2.uk@SD">ITV2</channel>
+  <channel site="player.ee.co.uk" site_id="dvb://233a..2066" lang="en"
+xmltv_id="ITV3.uk@SD">ITV3</channel>
+  <channel site="player.ee.co.uk" site_id="dvb://233a..208a" lang="en"
+xmltv_id="ITV4.uk@SD">ITV4</channel>
+  <channel site="tvtv.us" site_id="49438" lang="en" 
+xmltv_id="NationalGeographic.us@East">National Geographic East</channel>
+  <channel site="tvtv.us" site_id="56425" lang="en"
+xmltv_id="NationalGeographicWild.us@East">National Geographic Wild East</channel>
+  <channel site="tvtv.us" site_id="11006" lang="en" 
+xmltv_id="nickelodeon.us@East">Nickelodeon East</channel>
+  <channel site="pluto.tv" site_id="5cb0cae7a461406ffe3f5213" lang="en" 
+xmltv_id="">Paramount Movie Channel</channel>
+  <channel site="tvtv.us" site_id="12719" lang="en" 
+xmltv_id="starz.us@East">Starz East</channel>
+  <channel site="tvtv.us" site_id="107076" lang="en" 
+xmltv_id="tastemade.us@US">Tastemade</channel>
+  <channel site="toonamiaftermath.com" site_id="Toonami Aftermath EST" lang="en"
+xmltv_id="ToonamiAftermath.us@East">Toonami Aftermath EST</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBB1900004J9" lang="en"
+xmltv_id="ToonGoggles.us@SD">Toon Goggles</channel>
+  <channel site="dishtv.in" site_id="142989" lang="en"
+xmltv_id="DisneyInternationalHD.in@SD">Disney International HD</channel>
+  <channel site="tvtv.us" site_id="70253" lang="en" 
+xmltv_id="FXMovieChannel.us@SD">FX Movie Channel</channel>
+  <channel site="entertainment.ie" site_id="great-movies" lang="en" 
+xmltv_id="GREATmovies.uk@UK">Great! Movies</channel>
+  <channel site="entertainment.ie" site_id="great-movies-romance" lang="en" 
+xmltv_id="GREATromance.uk@UK">Great! Movies Romance</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/gb#GBBA220000751" lang="en" 
+xmltv_id="">INWILD</channel>
+  <channel site="plex.tv" site_id="5eea605574085f0040ddc797" lang="en"
+xmltv_id="KidsFlix.us@SD">KidsFlix</channel>
+  <channel site="epgshare01.online" site_id="CA1#knowledge.Network.ca" lang="en"
+xmltv_id="">Knowledge Network</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/ca#CABC230001363" lang="en" 
+xmltv_id="">LEGO Channel</channel>
+  <channel site="pluto.tv" site_id="60fb01a24795a6000762fe83" lang="en"
+xmltv_id="LEGOKidsTV.us@SD">LEGO Kids TV</channel>
+  <channel site="player.ee.co.uk" site_id="dvb://233a..20fa" lang="en" 
+xmltv_id="more4.uk@SD">More 4</channel>
+  <channel site="pluto.tv" site_id="613260e4bdb71c00070d63fa" lang="en"
+xmltv_id="MoreTVDrama.us@SD">More TV Drama</channel>
+  <channel site="pluto.tv" site_id="6132619f9ddaa50007e7dd86" lang="en"
+xmltv_id="MoreTVSitcoms.us@SD">More TV Sitcoms</channel>
+  <channel site="osn.com" site_id="AHD" lang="en" 
+xmltv_id="OSNMoviesAction.ae@SD">OSNtv Movies Action</channel>
+  <channel site="airtelxstream.in" site_id="LIVETV_LIVETVCHANNEL_MNSYMPLUS" lang="en"
+xmltv_id="MoviesNowPlus.in@SD">MN+</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/gb#GBBD50000320" lang="en" 
+xmltv_id="">Mystery TV</channel>
+  <channel site="i.mjh.nz" site_id="SamsungTVPlus/us#USBC3900018K6" lang="en" 
+xmltv_id="">MyTime Movie Network</channel>
+  <channel site="pluto.tv" site_id="5ca673e0d0bd6c2689c94ce3" lang="en" 
+xmltv_id="">Nickelodeon Pluto TV</channel>
+  <channel site="pluto.tv" site_id="561d7d484dc7c8770484914a" lang="en" 
+xmltv_id="">Pluto TV Action</channel>
+  <channel site="pluto.tv" site_id="56b27f85ff3037045055037e" lang="en" 
+xmltv_id="">Pluto TV Animals</channel>
+  <channel site="pluto.tv" site_id="5a4d3a00ad95e4718ae8d8db" lang="en" 
+xmltv_id="">Pluto TV Comedy</channel>
+  <channel site="pluto.tv" site_id="5b4e92e4694c027be6ecece1" lang="en" 
+xmltv_id="">Pluto TV Drama</channel>
+  <channel site="pluto.tv" site_id="5a4d35dfa5c02e717a234f86" lang="en" 
+xmltv_id="">Pluto TV History</channel>
+  <channel site="pluto.tv" site_id="569546031a619b8f07ce6e25" lang="en" 
+xmltv_id="">Pluto TV Horror</channel>
+  <channel site="pluto.tv" site_id="5812be1c249444e05d09cc50" lang="en" 
+xmltv_id="">Pluto TV True Crime</channel>
+  <channel site="player.ee.co.uk" site_id="dvb://233a..3880" lang="en"
+xmltv_id="WildEarth.uk@SD">WildEarth</channel>
+  </channels>
+  
 
-  <channel site="player.ee.co.uk" site_id="http://bds.tv/services/BT_1006_SD" lang="en" xmltv_id="Film4.uk">Film4</channel>
-  <channel site="tvtv.us" site_id="10178" lang="en" xmltv_id="StarzEncore.us">Starz Encore East</channel>
-  <channel site="tvtv.us" site_id="11163" lang="en" xmltv_id="ParamountNetwork.us">Paramount Network East</channel>
-  <channel site="tvtv.us" site_id="11116" lang="en" xmltv_id="FXMovieChannel.us">FX Movie Channel</channel>
-  <channel site="player.ee.co.uk" site_id="dvb://233a..3ad8" lang="en" xmltv_id="GREATmovies.uk">GREAT! movies</channel>
-  <channel site="player.ee.co.uk" site_id="dvb://233a..3cd8" lang="en" xmltv_id="GREATaction.uk">GREAT! action</channel>
 
-  <channel site="tvtv.us" site_id="11003" lang="en" xmltv_id="NationalGeographic.us">National Geographic</channel>
-  <channel site="tvtv.us" site_id="11006" lang="en" xmltv_id="Nickelodeon.us">Nickelodeon East</channel>
-  <channel site="tvtv.us" site_id="10149" lang="en" xmltv_id="ComedyCentral.us">Comedy Central East</channel>
-  <channel site="tvtv.us" site_id="10171" lang="en" xmltv_id="DisneyChannel.us">Disney Channel East</channel>
-  <channel site="tvtv.us" site_id="10174" lang="en" xmltv_id="DisneyJunior.us">Disney Junior</channel>
-  <channel site="tvtv.us" site_id="10172" lang="en" xmltv_id="DisneyXD.us">Disney XD</channel>
-  <channel site="tvtv.us" site_id="10313" lang="en" xmltv_id="E.us">E! Entertainment</channel>
-  <channel site="tvtv.us" site_id="11004" lang="en" xmltv_id="NatGeoWild.us">Nat Geo Wild</channel>
 
-  <channel site="pluto.tv" site_id="5b4e96a0423e067bd6df6901" lang="en" xmltv_id="UnsolvedMysteries.us@UK">Unsolved Mysteries</channel>
-  <channel site="pluto.tv" site_id="5b4e96a0423e067bd6df6901" lang="en" xmltv_id="UnsolvedMysteries.us@US">Unsolved Mysteries (US)</channel>
-  <channel site="pluto.tv" site_id="5cb0cae7a461406ffe3f5213" lang="en" xmltv_id="ParamountMovieChannel.us">Paramount Movie Channel</channel>
-  <channel site="pluto.tv" site_id="5df97894467dfa00091c873c" lang="en" xmltv_id="NBCNewsNOW.us">NBC News NOW</channel>
-  <channel site="pluto.tv" site_id="640a68880e884c0009979cc2" lang="en" xmltv_id="FoxWeather.us">FOX Weather</channel>
-  <channel site="pluto.tv" site_id="5f36d726234ce10007784f2a" lang="en" xmltv_id="BobRossChannel.us">The Bob Ross Channel</channel>
-  <channel site="pluto.tv" site_id="5812be1c249444e05d09cc50" lang="en" xmltv_id="PlutoTVTrueCrime.us@US">Pluto TV True Crime</channel>
-  <channel site="pluto.tv" site_id="561d7d484dc7c8770484914a" lang="en" xmltv_id="PlutoTVAction.us@US">Pluto TV Action</channel>
-  <channel site="pluto.tv" site_id="5b4e92e4694c027be6ecece1" lang="en" xmltv_id="PlutoTVDrama.us@US">Pluto TV Drama</channel>
-  <channel site="pluto.tv" site_id="569546031a619b8f07ce6e25" lang="en" xmltv_id="PlutoTVHorror.us@US">Pluto TV Horror</channel>
-</channels>
+
+
+  
